@@ -14,16 +14,16 @@ setBasePath(
 
 function Team() {
   return (
-    <div className="w-full h-screen overflow-visible overflow-x-clip grid">
-      <div className="bg-[#6D9E68] w-full h-[100vh] md:h-[150vh] max-h-none rounded-b-[100px] md:rounded-b-[300px] z-[9] relative pt-20 md:pt-[25%]">
-        <p className="text-center font-fugazOne text-[#62680A] text-xl md:text-2xl px-4">
+    <div className="w-full h-auto md:h-screen overflow-visible overflow-x-clip grid">
+      <div className="bg-[#6D9E68] w-full h-[80vh] md:h-[150vh] max-h-none rounded-b-[50px] md:rounded-b-[300px] z-[9] relative pt-10 md:pt-[25%]">
+        <p className="text-center font-fugazOne text-[#62680A] text-lg md:text-2xl px-4">
           TEAM BEHIND THE{" "}
-          <span className="text-2xl md:text-4xl text-[#0E680A]">
+          <span className="text-xl md:text-4xl text-[#0E680A]">
             {" "}
             CONNECTGREEN APPLICATION
           </span>
         </p>
-        <div className="w-[90%] md:w-[70%] mt-10 justify-self-center">
+        <div className="w-[90%] md:w-[70%] mt-6 md:mt-10 justify-self-center">
           <SlCarousel loop autoplay interval={1500}>
             <SlCarouselItem>
               <img
@@ -49,7 +49,6 @@ function Team() {
           </SlCarousel>
         </div>
       </div>
-      <div></div>
     </div>
   );
 }
