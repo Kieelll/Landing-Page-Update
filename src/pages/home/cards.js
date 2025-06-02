@@ -17,14 +17,7 @@ function Cards() {
             className="absolute top-0 right-0 -translate-y-[20%] translate-x-[40%] w-12 h-12 md:w-20 md:h-20"
           />
           <p className="text-white text-[11px] md:text-lg font-freeman text-justify absolute top-[50%] left-[50%] -translate-x-1/2 -translate-y-1/2 w-[260px] md:w-[80%] min-w-[260px]">
-            By converting food scraps into an eco-friendly soil conditioner,
-            they are not only reducing waste but also supporting farmers,
-            gardeners, and communities across the country. This website was
-            created to share their story, showcase their impact, and educate
-            others about how food waste can become a powerful tool for
-            environmental restoration and agricultural health. Join us in
-            supporting local solutions to global problems—because sustainability
-            starts at home.
+            Barangay Concepcion Uno's soil conditioner initiative transforms organic waste into nutrient-rich compost, enhancing soil fertility and promoting sustainable agriculture. This eco-friendly solution helps local farmers improve crop yields while reducing environmental impact through proper waste management.
           </p>
         </div>
         <div className="bg-[#A4C8A1] p-[5%] relative rounded-[50px] w-full md:w-[80%]">
@@ -39,14 +32,7 @@ function Cards() {
             className="absolute top-0 right-0 -translate-y-[20%] translate-x-[40%] w-12 h-12 md:w-20 md:h-20"
           />
           <p className="text-white text-[11px] md:text-lg font-freeman text-justify absolute top-[50%] left-[50%] -translate-x-1/2 -translate-y-1/2 w-[260px] md:w-[80%] min-w-[260px]">
-            By converting food scraps into an eco-friendly soil conditioner,
-            they are not only reducing waste but also supporting farmers,
-            gardeners, and communities across the country. This website was
-            created to share their story, showcase their impact, and educate
-            others about how food waste can become a powerful tool for
-            environmental restoration and agricultural health. Join us in
-            supporting local solutions to global problems—because sustainability
-            starts at home.
+            Our community's soil conditioner program serves multiple purposes: it reduces landfill waste, creates employment opportunities for residents, and provides affordable organic fertilizer for local gardens. This initiative strengthens community bonds while promoting environmental stewardship.
           </p>
         </div>
         <div className="bg-[#A4C8A1] p-[5%] relative rounded-[50px] w-full md:w-[80%]">
@@ -61,14 +47,7 @@ function Cards() {
             className="absolute top-0 right-0 -translate-y-[20%] translate-x-[40%] w-12 h-12 md:w-20 md:h-20"
           />
           <p className="text-white text-[11px] md:text-lg font-freeman text-justify absolute top-[50%] left-[50%] -translate-x-1/2 -translate-y-1/2 w-[260px] md:w-[80%] min-w-[260px]">
-            By converting food scraps into an eco-friendly soil conditioner,
-            they are not only reducing waste but also supporting farmers,
-            gardeners, and communities across the country. This website was
-            created to share their story, showcase their impact, and educate
-            others about how food waste can become a powerful tool for
-            environmental restoration and agricultural health. Join us in
-            supporting local solutions to global problems—because sustainability
-            starts at home.
+            The soil conditioner produced in Barangay Concepcion Uno contains essential nutrients like nitrogen, phosphorus, and potassium, making it ideal for both home gardens and commercial farming. Our facility processes food waste and yard trimmings into high-quality compost that improves soil structure and water retention.
           </p>
         </div>
         <div className="bg-[#A4C8A1] p-[5%] relative rounded-[50px] w-full md:w-[80%]">
@@ -83,14 +62,7 @@ function Cards() {
             className="absolute top-0 right-0 -translate-y-[20%] translate-x-[40%] w-12 h-12 md:w-20 md:h-20"
           />
           <p className="text-white text-[11px] md:text-lg font-freeman text-justify absolute top-[50%] left-[50%] -translate-x-1/2 -translate-y-1/2 w-[260px] md:w-[80%] min-w-[260px]">
-            By converting food scraps into an eco-friendly soil conditioner,
-            they are not only reducing waste but also supporting farmers,
-            gardeners, and communities across the country. This website was
-            created to share their story, showcase their impact, and educate
-            others about how food waste can become a powerful tool for
-            environmental restoration and agricultural health. Join us in
-            supporting local solutions to global problems—because sustainability
-            starts at home.
+            Through educational workshops and community outreach, Barangay Concepcion Uno teaches residents about composting and sustainable gardening practices. Our soil conditioner program has become a model for other communities, demonstrating how local initiatives can create positive environmental and social impact.
           </p>
         </div>
       </div>

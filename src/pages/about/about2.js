@@ -12,13 +12,7 @@ function About2() {
       </div>
       <div className="w-full md:w-[45%] p-4 md:p-[15%]">
         <p className="text-white text-lg md:text-2xl text-justify font-freeman">
-          By converting food scraps into an eco-friendly soil conditioner, they
-          are not only reducing waste but also supporting farmers, gardeners,
-          and communities across the country. This website was created to share
-          their story, showcase their impact, and educate others about how food
-          waste can become a powerful tool for environmental restoration and
-          agricultural health. Join us in supporting local solutions to global
-          problems—because sustainability starts at home.
+          Meet our dedicated team of environmental champions at Barangay Concepcion Uno's MRF facility. Our staff, composed of local residents and waste management experts, works tirelessly to ensure efficient waste processing and quality soil conditioner production. Through their commitment and expertise, they've transformed our community's approach to waste management while creating sustainable livelihoods for themselves and their families.
         </p>
       </div>
     </div>

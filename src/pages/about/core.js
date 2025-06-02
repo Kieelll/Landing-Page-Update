@@ -18,9 +18,7 @@ function Core() {
               </div>
               <div className="bg-[#0F661C] w-full sm:w-3/5 py-3 sm:py-6 px-4 sm:px-10 rounded-tl-[50px] sm:rounded-tl-[200px] rounded-br-[100px] sm:rounded-br-[100px]">
                 <p className="text-white font-freeman text-center text-sm sm:text-base">
-                  Our Mission is to help our environment by turning food waste into
-                  a useable soil conditioner that can be use for making plants
-                  healthier
+                  To transform food waste into premium soil conditioner, creating sustainable livelihoods while promoting environmental stewardship in our community.
                 </p>
               </div>
               <img
@@ -38,9 +36,7 @@ function Core() {
               </div>
               <div className="bg-[#0F661C] w-full sm:w-3/5 py-3 sm:py-6 px-4 sm:px-10 rounded-bl-[50px] sm:rounded-bl-[200px] rounded-tr-[100px] sm:rounded-tr-[100px]">
                 <p className="text-white font-freeman text-center text-sm sm:text-base">
-                  Our Mission is to help our environment by turning food waste into
-                  a useable soil conditioner that can be use for making plants
-                  healthier
+                  To become the leading model of sustainable waste management and organic farming innovation in Marikina City.
                 </p>
               </div>
               <img
@@ -58,9 +54,7 @@ function Core() {
               </div>
               <div className="bg-[#0F661C] w-full sm:w-3/5 py-3 sm:py-6 px-4 sm:px-10 rounded-tl-[50px] sm:rounded-tl-[200px] rounded-br-[100px] sm:rounded-br-[100px]">
                 <p className="text-white font-freeman text-center text-sm sm:text-base">
-                  Our Mission is to help our environment by turning food waste into
-                  a useable soil conditioner that can be use for making plants
-                  healthier
+                  To establish a self-sustaining composting facility that generates income while reducing waste and promoting organic farming practices.
                 </p>
               </div>
               <img
@@ -78,9 +72,7 @@ function Core() {
               </div>
               <div className="bg-[#0F661C] w-full sm:w-3/5 py-3 sm:py-6 px-4 sm:px-10 rounded-bl-[50px] sm:rounded-bl-[200px] rounded-tr-[100px] sm:rounded-tr-[100px]">
                 <p className="text-white font-freeman text-center text-sm sm:text-base">
-                  Our Mission is to help our environment by turning food waste into
-                  a useable soil conditioner that can be use for making plants
-                  healthier
+                  We value environmental responsibility, community empowerment, sustainable innovation, and quality service in all our endeavors.
                 </p>
               </div>
               <img

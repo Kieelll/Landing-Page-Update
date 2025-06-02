@@ -9,32 +9,19 @@ function Meet() {
         MRF AND ZERO WASTE MANAGEMENT
       </p>
       <p className="mb-5 text-justify text-lg md:text-2xl text-white font-freeman">
-        By converting food scraps into an eco-friendly soil conditioner, they
-        are not only reducing waste but also supporting farmers, gardeners, and
-        communities across the country. This website was created to share their
-        story, showcase their impact, and educate others about how food waste
-        can become a powerful tool for environmental restoration and
-        agricultural health. Join us in supporting local solutions to global
-        problems—because sustainability starts at home.
+        Welcome to Barangay Concepcion Uno's Materials Recovery Facility (MRF), where we transform food waste into valuable soil conditioner. Our state-of-the-art facility serves as a model for sustainable waste management in Marikina City, demonstrating how communities can turn environmental challenges into opportunities for growth and innovation.
       </p>
       <div className="grid grid-cols-1 md:grid-cols-11 gap-10 items-center mb-10">
         <div className="grid grid-flow-row col-span-1 md:col-span-5">
           <p className="text-white text-lg md:text-2xl text-justify font-freeman">
-            By converting food scraps into an eco-friendly soil conditioner,
-            they are not only reducing waste but also supporting farmers,
-            gardeners, and communities across the country. This website was
-            created to share their story, showcase their impact, and educate
-            others about how food waste can become a powerful tool for
-            environmental restoration and agricultural health. Join us in
-            supporting local solutions to global problems—because sustainability
-            starts at home.
+            Our MRF facility features specialized composting areas, quality control laboratories, and storage facilities designed to handle food waste efficiently. Through our community-based approach, we've created a sustainable system that not only manages waste but also generates income for local residents while promoting environmental awareness.
           </p>
         </div>
         <div className="grid grid-flow-col col-span-1 md:col-span-6">
           <img
             className="h-auto w-full justify-self-end"
             src={img1}
-            alt="GreenConnect Logo"
+            alt="MRF Facility"
           />
         </div>
       </div>
@@ -43,18 +30,12 @@ function Meet() {
           <img
             className="h-auto w-full justify-self-start"
             src={img2}
-            alt="GreenConnect Logo"
+            alt="Composting Process"
           />
         </div>
         <div className="grid grid-flow-row col-span-1 md:col-span-5 order-1 md:order-2">
           <p className="text-white text-lg md:text-2xl text-justify font-freeman">
-            The Food Waste Map feature provides users with real-time visibility
-            into the current locations of our food waste collectors. It also
-            displays the total amount of food waste collected, as well as nearby
-            drop-off points or partner locations that accept food waste from
-            users in the same area. This interactive map helps promote
-            transparency, encourages participation, and makes it easier for
-            users to contribute to sustainable waste management efforts.
+            The facility operates as a hub for waste collection, processing, and distribution. Our trained staff ensures proper sorting and processing of food waste, while our quality control measures guarantee that the final product meets the highest standards for soil conditioning. This integrated approach has made our barangay a leader in sustainable waste management practices.
           </p>
         </div>
       </div>
