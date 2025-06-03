@@ -1,6 +1,6 @@
-import c1 from "../../assets/images/home-carousel-1.png";
-import c2 from "../../assets/images/home-carousel-2.png";
-import c3 from "../../assets/images/home-carousel-3.png";
+import img1 from "../../assets/images/about-img1.png";
+import img2 from "../../assets/images/home-img3.png";
+import img3 from "../../assets/images/about-img4.png";
 
 import SlCarousel from "@shoelace-style/shoelace/dist/react/carousel";
 import SlCarouselItem from "@shoelace-style/shoelace/dist/react/carousel-item";
@@ -27,22 +27,22 @@ function Team() {
           <SlCarousel loop autoplay interval={1500}>
             <SlCarouselItem>
               <img
-                alt="The sun shines on the mountains and trees (by Adam Kool on Unsplash)"
-                src={c1}
+                alt="MRF Facility and Team"
+                src={img1}
                 className="w-full h-auto"
               />
             </SlCarouselItem>
             <SlCarouselItem>
               <img
-                alt="A waterfall in the middle of a forest (by Thomas Kelly on Unsplash)"
-                src={c2}
+                alt="Composting Process"
+                src={img2}
                 className="w-full h-auto"
               />
             </SlCarouselItem>
             <SlCarouselItem>
               <img
-                alt="The sun is setting over a lavender field (by Leonard Cotte on Unsplash)"
-                src={c3}
+                alt="MRF Staff Team"
+                src={img3}
                 className="w-full h-auto"
               />
             </SlCarouselItem>
